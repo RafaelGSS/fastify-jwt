@@ -43,7 +43,7 @@
   "devDependencies": {
     "@fastify/cookie": "^6.0.0",
     "@types/node": "^18.0.0",
-    "fastify": "^3.27.2",
+    "fastify": "^4.11.0",
     "pre-commit": "^1.2.2",
     "standard": "^17.0.0",
     "tap": "^16.0.0",
